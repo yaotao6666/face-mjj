@@ -1,0 +1,16 @@
+### Health
+GET http://127.0.0.1:8000/health
+
+### Rebuild Gallery
+POST http://127.0.0.1:8000/api/gallery/rebuild
+
+### Recognize Face
+POST http://127.0.0.1:8000/api/face/recognize?threshold=0.8
+Content-Type: multipart/form-data; boundary=Boundary
+
+--Boundary
+Content-Disposition: form-data; name="file"; filename="test.jpg"
+Content-Type: image/jpeg
+
+< ./test.jpg
+--Boundary--

@@ -1,0 +1,27 @@
+[
+  {
+    "employeeNo": "EMP001",
+    "employeeName": "张三",
+    "imagePath": "E:\\other\\local-rl\\python-face-demo\\data\\gallery\\EMP001_张三\\1.png"
+  },
+  {
+    "employeeNo": "EMP001",
+    "employeeName": "张三",
+    "imagePath": "E:\\other\\local-rl\\python-face-demo\\data\\gallery\\EMP001_张三\\2.png"
+  },
+  {
+    "employeeNo": "EMP001",
+    "employeeName": "张三",
+    "imagePath": "E:\\other\\local-rl\\python-face-demo\\data\\gallery\\EMP001_张三\\3.png"
+  },
+  {
+    "employeeNo": "EMP002",
+    "employeeName": "李四",
+    "imagePath": "E:\\other\\local-rl\\python-face-demo\\data\\gallery\\EMP002_李四\\1.png"
+  },
+  {
+    "employeeNo": "EMP003",
+    "employeeName": "王五",
+    "imagePath": "E:\\other\\local-rl\\python-face-demo\\data\\gallery\\EMP003_王五\\1.png"
+  }
+]

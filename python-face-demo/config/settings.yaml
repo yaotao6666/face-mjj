@@ -1,0 +1,5 @@
+detection_score_threshold: 0.5
+recognition_threshold: 0.6
+liveness_enabled: true
+liveness_threshold: 0.5
+liveness_model_path: models/best_model_quantized.onnx
